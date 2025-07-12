@@ -8,6 +8,6 @@ All files in this repository are released under the [MIT License](https://mit-li
 
 # Reference
 
-Optimal environmental testing frequency for outbreak surveillance
-*Epidemics* **46**, 100750 (2024)
+Optimal environmental testing frequency for outbreak surveillance  
+*Epidemics* **46**, 100750 (2024)  
 [https://doi.org/10.1016/j.epidem.2024.100750](https://doi.org/10.1016/j.epidem.2024.100750)
